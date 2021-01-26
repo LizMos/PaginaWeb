@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Ciberseguras</title>
+	</head>
+	<body>
+		<div>
+			<img src="img/logo2.jpeg" width="80">
+			<center>
+				<a href="ciberseguras.html">
+				   <font color="red">Inicio</font>
+      				</a>
+				<a href="quienessomos.html">
+                                     <font color="red">¿Qui&eacutenes somos?</font>
+				</a>
+ 				<a href="colaborar.html">
+				   <font color="red">Colaborar</font>
+				</a>
+				<a href="#">
+                                      <font color="red">Contacto</font>
+                                  </a>
+			</center>
+			<input type="text">
+			<hr>
+		</div>
+		<div>
+			<center>
+			 <font color="purple">
+                             <h1>Seguridad Digital</h1>
+                             <h1>Para Mujeres</h1>
+			 </font>
+                         <center>
+ 			<hr width="800">
+     		</div>
+		<h1>Informaci&oacute;n de contacto</h1>
+		<h2>¿Quieres saber m&aacute;s al respecto del tema o de un t&oacute;pico en espec&iacute;fico? Contactanos por medio de nuestro correo electr&oacute;nico ciberseguras@gmail.com</h2>
+		<br>
+                      <img src="img/red.jpg" width="500">
+	</body>  
+</html>

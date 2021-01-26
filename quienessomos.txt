@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>Ciberseguras</title>
+	</head>
+	<body>
+		<div>
+			<img src="img/logo2.jpeg" width="80">
+			<center>
+				<a href="ciberseguras.html">
+				   <font color="red">Inicio</font>
+      				</a>
+				<a href="#">
+                                     <font color="red">¿Qui&eacute;nes somos?</font>
+				</a>
+ 				<a href="colaborar.html">
+				   <font color="red">Colaborar</font>
+				</a>
+				<a href="contacto.html">
+                                      <font color="red">Contacto</font>
+                                  </a>
+			</center>
+			<input type="text">
+			<hr>
+		</div>
+		<div>
+			<center>
+			 <font color="purple">
+                             <h1>Seguridad Digital</h1>
+                             <h1>Para Mujeres</h1>
+			 </font>
+                         <center>
+ 			<hr width="800">
+     		</div>
+		<h1>¿Qui&eacute;nes somos?</h1>
+                 <h2> Somos una red de mujeres profesionales en el tema de ciberseguridad para mujeres y nos encontramos en distintas partes de la Rep&uacute;blica Mexicana</h2>
+		<hr>
+                    <img src="img/mujeres.jpg" width="500">
+	</body>  
+</html>
